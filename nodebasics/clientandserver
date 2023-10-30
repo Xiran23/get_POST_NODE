@@ -1,0 +1,31 @@
+we type url in browser and that sends 
+request in server that powering the website 
+
+server decide what to send to with request 
+what to return back 
+(most of that will be html page,css,json )
+
+
+how broser knows to send correct server
+
+there are millions server powerin million website on internet 
+
+brower knows to connect the right one 
+
+for that 
+ip address and domian 
+
+ip address 
+
+are address for computer 
+each computer have differnt ip address 
+even host server has (powering website server) has its uniuqe ip
+address 
+
+
+we use domain name to mask this address 
+  when we write domian name brower will 
+  find ip address associated with it and then 
+
+  client and server uses http fucntion to comunicate 
+  

@@ -1,0 +1,23 @@
+1. Nodemon  
+ npm install -g nodemon
+   npm init -g Nodemon
+
+2.package.json
+
+any kind of third party software or package 
+we need packed json file 
+
+-    npm init 
+ {package.json}
+
+ 3.package locally 
+  frame work
+  -utiliy libary 
+   npm webiste loaddash 
+
+while file sharing or open from git hub 
+
+   npm install 
+
+
+ 

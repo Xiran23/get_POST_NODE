@@ -1,0 +1,17 @@
+status cod 
+
+ status codes describe the type of response send to the browser 
+
+      200 - OK
+      301 - resource moved 
+      404 - file not found 
+      500 - internal server error 
+      
+
+      100 range - informational response 
+      200 range - sucess code 
+      300 range - code for redirects 
+      400       - user or client error codes 
+      500         server error codes 
+
+      
